@@ -1,0 +1,21 @@
+{
+    "name": "valueticoassignment",
+    "version": "1.0.0",
+    "description": "Automation Task",
+    "main": "index.js",
+    "scripts": {
+        "cypress:chrome": "cypress open --e2e --browser chrome",
+        "cypress:firefox": "cypress open --e2e --browser firefox",
+        "cypress:electron": "cypress open --e2e --browser electron"
+    },
+    "keywords": [
+        "Login",
+        "Automation"
+    ],
+    "author": "Ammarah Nizamuddin",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^12.13.0",
+        "cypress-mochawesome-reporter": "^3.5.0"
+    }
+}
