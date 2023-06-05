@@ -1,4 +1,4 @@
-> Cypress 10+ with Cucumber BDD Task.
+> Cypress 12 with Page Object Model
 
 
  ##  Pre-requisites(if not) ##
